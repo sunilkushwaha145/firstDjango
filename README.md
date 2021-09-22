@@ -1,0 +1,2 @@
+# firstDjango
+start with django
